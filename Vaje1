@@ -1,0 +1,5 @@
+SELECT naslov,zasluzek /dolzina 
+  FROM film
+
+ ORDER BY/* Pa še uredimo */ zasluzek DESC
+LIMIT 1
